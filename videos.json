@@ -39,5 +39,19 @@
       "episodesPage": "https://pagina-de-capitulos.com/attack-on-titan"
     }
     
-  ]
+  ],
+  "nuevos_episodios": [
+  {
+    "titulo": "Demon Slayer Temporada 3 - Episodio 7",
+    "imagen": "https://image.tmdb.org/t/p/original/5Uw4jZE7rMYVnK7xdOKQcl8J1bi.jpg",
+    "sinopsis": "Tanjiro enfrenta una nueva amenaza en la aldea de los herreros.",
+    "video": "https://link-a-video-episodio7.mp4"
+  },
+  {
+    "titulo": "Jujutsu Kaisen Temporada 2 - Episodio 5",
+    "imagen": "https://image.tmdb.org/t/p/original/kFvAdU9ijH5cPY9vUkwH8FhrNVA.jpg",
+    "sinopsis": "Gojo descubre un nuevo secreto sobre Suguru Geto.",
+    "video": "https://link-a-video-episodio5.mp4"
+  }
+]
 }
