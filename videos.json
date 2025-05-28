@@ -13,7 +13,8 @@
       "imagen": "https://image.tmdb.org/t/p/original/iUfWPVyuLA4wZ5EetHyyGsi25SF.jpg",
       "sinopsis": "Dos jóvenes conectados por un extraño fenómeno...",
       "tipo": "pelicula",
-      "video": "https://link-a-video.mp4"
+      "video": "https://link-a-video.mp4",
+      "categoria": "peliculas"
     },
     {
       "titulo": "El viaje de Chihiro",
@@ -30,8 +31,9 @@
       "imagen": "https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
       "sinopsis": "La humanidad lucha contra gigantes devoradores...",
       "tipo": "serie",
-      "episodesPage": "https://pagina-de-capitulos.com/attack-on-titan"
-    },
+      "episodesPage": "https://pagina-de-capitulos.com/attack-on-titan",
+      "categoria": "series, Accion, Aventura"
+     },
     {
       "titulo": "Attack on Titan",
       "imagen": "https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
