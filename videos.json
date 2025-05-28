@@ -1,23 +1,28 @@
-const datos = [
-  {
-    "Title": "The Batman",
-    "Year": "2022",
-    "Rated": "PG-13",
-    "Released": "04 Mar 2022",
-    "Runtime": "176 min",
-    "Genre": "Action, Crime, Drama",
-    "Director": "Matt Reeves",
-    "Writer": "Matt Reeves, Peter Craig, Bill Finger",
-    "Actors": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright",
-    "Plot": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham...",
-    "Language": "English",
-    "Country": "United States",
-    "Awards": "9 wins & 91 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzM1ZTg2YzAtNzk4Mi00ZTQzLWI5ZDctNmNiZmNlYjM0MTc1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-    "imdbRating": "7.8",
-    "imdbVotes": "608,438",
-    "imdbID": "tt1877830",
-    "Type": "movie"
-  }
-  // Puedes agregar más películas aquí
-];
+{
+  "peliculas": [
+    {
+      "titulo": "Your Name",
+      "imagen": "https://image.tmdb.org/t/p/original/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
+      "sinopsis": "Sin saberlo abrio la oierta del caos ,Ahora suzume...",
+      "tipo": "pelicula",
+      "video": "https://link-a-video.mp4"
+    },
+    {
+      "titulo": "Suzume",
+      "imagen": "https://image.tmdb.org/t/p/original/iUfWPVyuLA4wZ5EetHyyGsi25SF.jpg",
+      "sinopsis": "Dos jóvenes conectados por un extraño fenómeno...",
+      "tipo": "pelicula",
+      "video": "https://link-a-video.mp4"
+      
+    }
+  ],
+  "series": [
+    {
+      "titulo": "Attack on Titan",
+      "imagen": "https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+      "sinopsis": "La humanidad lucha contra gigantes devoradores...",
+      "tipo": "serie",
+      "episodesPage": "https://pagina-de-capitulos.com/attack-on-titan"
+    }
+  ]
+}
