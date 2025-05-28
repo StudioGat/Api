@@ -1,27 +1,23 @@
-{
-  "Title": "Avatar",
-  "Year": "2009",
-  "Rated": "PG-13",
-  "Released": "18 Dec 2009",
-  "Runtime": "162 min",
-  "Genre": "Action, Adventure, Fantasy",
-  "Director": "James Cameron",
-  "Writer": "James Cameron",
-  "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
-  "Plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
-  "Language": "English, Spanish",
-  "Country": "USA, UK",
-  "Awards": "Won 3 Oscars. Another 80 wins & 121 nominations.",
-  "Poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
-  "Metascore": "83",
-  "imdbRating": "7.9",
-  "imdbVotes": "890,617",
-  "imdbID": "tt0499549",
-  "Type": "movie",
-  "Response": "True",
-  "Video": "https://tuservidor.com/videos/avatar.mp4",
-  "Images": [
-    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTYyMzUxNl5BMl5BanBnXkFtZTcwNTg0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-    ...
-  ]
-}
+const datos = [
+  {
+    "Title": "The Batman",
+    "Year": "2022",
+    "Rated": "PG-13",
+    "Released": "04 Mar 2022",
+    "Runtime": "176 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Matt Reeves",
+    "Writer": "Matt Reeves, Peter Craig, Bill Finger",
+    "Actors": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright",
+    "Plot": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "9 wins & 91 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzM1ZTg2YzAtNzk4Mi00ZTQzLWI5ZDctNmNiZmNlYjM0MTc1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbRating": "7.8",
+    "imdbVotes": "608,438",
+    "imdbID": "tt1877830",
+    "Type": "movie"
+  }
+  // Puedes agregar más películas aquí
+];
