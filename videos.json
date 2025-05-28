@@ -5,7 +5,8 @@
       "imagen": "https://image.tmdb.org/t/p/original/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
       "sinopsis": "Sin saberlo abrió la puerta del caos, ahora Suzume...",
       "tipo": "pelicula",
-      "video": "https://link-a-video.mp4"
+      "video": "https://link-a-video.mp4",
+      "categoria" : "pelicula"
     },
     {
       "titulo": "Suzume",
